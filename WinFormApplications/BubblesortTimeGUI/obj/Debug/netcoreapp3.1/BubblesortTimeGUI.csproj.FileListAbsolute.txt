@@ -1,0 +1,17 @@
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\BubblesortTimeGUI.exe
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.csproj.GenerateResource.cache
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.AssemblyInfoInputs.cache
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.AssemblyInfo.cs
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.csproj.CopyComplete
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\BubblesortTimeGUI.deps.json
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\BubblesortTimeGUI.runtimeconfig.json
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\BubblesortTimeGUI.runtimeconfig.dev.json
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\BubblesortTimeGUI.dll
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\BubblesortTimeGUI.pdb
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\bin\Debug\netcoreapp3.1\ScottPlot.WinForms.dll
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.csproj.CoreCompileInputs.cache
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.dll
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.pdb
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.genruntimeconfig.cache
+C:\Users\Roberto de León\source\repos\BubblesortTimeGUI\obj\Debug\netcoreapp3.1\BubblesortTimeGUI.RandomExtensions.resources
