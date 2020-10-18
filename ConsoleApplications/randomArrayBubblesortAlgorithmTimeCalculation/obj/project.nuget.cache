@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ROMOA74X6+WDXwJt1+qpBLalMeDvt8XUORmFPt5OkKVA3Y50zwbE0dTTmXcyIfISI/OZYRsA61Sy2CKmCiJyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roberto de León\\source\\repos\\randomArrayBubblesortAlgorithmTimeCalculation\\randomArrayBubblesortAlgorithmTimeCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roberto de León\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Roberto de León\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Roberto de León\\.nuget\\packages\\scottplot\\4.0.42\\scottplot.4.0.42.nupkg.sha512",
+    "C:\\Users\\Roberto de León\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
