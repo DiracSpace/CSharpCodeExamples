@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0XHlJeeaf2JwGgeAMzZvaEYMo5AO3tXjQs4pizIxoDcE2USJJf4umtA8EJddAieG8/uF1Au+0yFk51Al3xYaQ==",
+  "dgSpecHash": "9KL2LMq9lvvFSLWRT5ZxOsmSerSD4TXLca2Dv6sDZxvJdOTCiPUh2mFqDhA6Pvb2QbyJqKyJrjjnuvi3/ro/3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roberto de León\\source\\repos\\HuffmanCompressionAlgorithm\\HuffmanCompressionAlgorithm.csproj",
+  "projectFilePath": "C:\\Users\\Roberto de León\\Documents\\git\\CSharpCodeExamples\\WinFormApplications\\HuffmanCompressionAlgorithm\\HuffmanCompressionAlgorithm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
