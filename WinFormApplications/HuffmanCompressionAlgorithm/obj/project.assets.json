@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roberto de León\\source\\repos\\HuffmanCompressionAlgorithm\\HuffmanCompressionAlgorithm.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto de León\\Documents\\git\\CSharpCodeExamples\\WinFormApplications\\HuffmanCompressionAlgorithm\\HuffmanCompressionAlgorithm.csproj",
       "projectName": "HuffmanCompressionAlgorithm",
-      "projectPath": "C:\\Users\\Roberto de León\\source\\repos\\HuffmanCompressionAlgorithm\\HuffmanCompressionAlgorithm.csproj",
+      "projectPath": "C:\\Users\\Roberto de León\\Documents\\git\\CSharpCodeExamples\\WinFormApplications\\HuffmanCompressionAlgorithm\\HuffmanCompressionAlgorithm.csproj",
       "packagesPath": "C:\\Users\\Roberto de León\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roberto de León\\source\\repos\\HuffmanCompressionAlgorithm\\obj\\",
+      "outputPath": "C:\\Users\\Roberto de León\\Documents\\git\\CSharpCodeExamples\\WinFormApplications\\HuffmanCompressionAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roberto de León\\AppData\\Roaming\\NuGet\\NuGet.Config",

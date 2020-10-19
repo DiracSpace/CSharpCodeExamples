@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,13 +22,19 @@ namespace HuffmanCompressionAlgorithm
 
         public void Main()
         {
-            string text = "old macdonald had a farm, and in that farm he fucked a cow";
+            string text = txtTextInput.Text;
+            HuffmanCodingTree huffman = new HuffmanCodingTree();
+
             for (int i = 65; i <= 90; i++)
             {
                 ListViewItem row = new ListViewItem(((char)i).ToString());
                 row.SubItems.Add(ReturnCount(text, ((char)i)).ToString());
                 lvInformation.Items.AddRange(new ListViewItem[] { row });
             }
+
+            huffman.PrepareHuffmanCodingTree(text);
+            BitArray encodedStrMsg = huffman.EncodingSourceText(text);
+            txtOutputText.Text = string.Join(" ", encodedStrMsg);
         }
 
         private void startProgramBtn_Click(object sender, EventArgs e)
