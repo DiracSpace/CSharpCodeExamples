@@ -1,0 +1,15 @@
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\bin\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.exe
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\bin\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.deps.json
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\bin\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.runtimeconfig.json
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\bin\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.runtimeconfig.dev.json
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\bin\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.dll
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\bin\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.pdb
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.csprojAssemblyReference.cache
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.AssemblyInfo.cs
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.dll
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.pdb
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.genruntimeconfig.cache
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.Form1.resources
+C:\Users\Roberto de León\source\repos\HuffmanCompressionAlgorithm\obj\Debug\netcoreapp3.1\HuffmanCompressionAlgorithm.csproj.GenerateResource.cache
