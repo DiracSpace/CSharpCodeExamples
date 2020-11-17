@@ -1,0 +1,18 @@
+C:\Users\Roberto de León\source\repos\registerPeople\bin\Debug\netcoreapp3.1\registerPeople.exe
+C:\Users\Roberto de León\source\repos\registerPeople\bin\Debug\netcoreapp3.1\registerPeople.deps.json
+C:\Users\Roberto de León\source\repos\registerPeople\bin\Debug\netcoreapp3.1\registerPeople.runtimeconfig.json
+C:\Users\Roberto de León\source\repos\registerPeople\bin\Debug\netcoreapp3.1\registerPeople.runtimeconfig.dev.json
+C:\Users\Roberto de León\source\repos\registerPeople\bin\Debug\netcoreapp3.1\registerPeople.dll
+C:\Users\Roberto de León\source\repos\registerPeople\bin\Debug\netcoreapp3.1\registerPeople.pdb
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.csprojAssemblyReference.cache
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.Form1 - Copy.resources
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.Form1.resources
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.csproj.GenerateResource.cache
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.AssemblyInfoInputs.cache
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.AssemblyInfo.cs
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.csproj.CoreCompileInputs.cache
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.dll
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.pdb
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.genruntimeconfig.cache
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.Form1 - Copy (2).resources
+C:\Users\Roberto de León\source\repos\registerPeople\obj\Debug\netcoreapp3.1\registerPeople.Form1 - Copy - Copy.resources
