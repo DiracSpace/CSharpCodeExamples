@@ -1,6 +1,8 @@
 # What does this do?
 
-In the current version, this program parses a simple string and gets all the ocurrences of every letter in the alphabet. With this, I'll generate a Huffman tree with the [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding) so that it can compress the files content.
-# Snapshots
+This program has a GUI where we generate N random arrays, with a random length L and the values are shuffled using the [Fisher-Yates Algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) for shuffling the random generated array. Then, the returned value is sent to the `getTime();` function for calculating the time and ordering the array with the [Bubble sort Algorithm](https://en.wikipedia.org/wiki/Bubble_sort). Finally, using the `ScottPlot` NuGET package, we generate the graph to display the times.
 
-There is no snapshot yet
+# Snapshots
+<p align="center">
+  <img src="https://github.com/DiracSpace/CSharpCodeExamples/blob/main/WinFormApplications/evidence/BubblesortTimeCalculationWithScottPlotGUI.PNG">
+</p>
